@@ -1,5 +1,5 @@
-EasyTHPS is a multilevel hybrid parallel runtime system for dynamic
-programming. EasyTHPS system encapsulates details of parallelization
+EasyHPS is a multilevel hybrid parallel runtime system for dynamic
+programming. EasyHPS system encapsulates details of parallelization
 implementation, such as task scheduling and message passing, and
 provide easy API for users to reduce the complexity of parallel
 programming.
