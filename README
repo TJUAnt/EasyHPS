@@ -1,0 +1,27 @@
+EasyTHPS is a multilevel hybrid parallel runtime system for dynamic
+programming. EasyTHPS system encapsulates details of parallelization
+implementation, such as task scheduling and message passing, and
+provide easy API for users to reduce the complexity of parallel
+programming.
+
+This project is implemented by C/C++, Pthread and MPI. In order to run this
+project or use this project, the environment should have the corresponding
+compliers and libraries.
+
+This README is just a fast "quick start" document. You can find more details
+in the EasyHPS.pdf
+
+It is as simple as:
+
+    % make
+
+We have implemented a dynamic algorithm as a demo -- SmithWaterman General 
+Gap. To run this demo, just type:
+   
+    % ./run.sh
+
+
+
+
+
+
